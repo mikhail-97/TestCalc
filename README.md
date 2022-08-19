@@ -20,6 +20,7 @@ Selenium/Selenide
 Использование паттерна PageObject
  
 ## Структура проекта  
+![CALC](https://user-images.githubusercontent.com/75842400/185708378-2ac93cb5-a6e3-44d6-a7e8-710624400768.PNG)
 
 Проект был написан с применением следующих технологий: Java, Maven, Junit, Selenium в программной среде IntelliJ IDEA. 
  
